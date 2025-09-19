@@ -1,0 +1,593 @@
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testhost.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.deps.json
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.runtimeconfig.json
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testhost.exe
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.api.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.core.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testcentric.engine.metadata.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\linux\selenium-manager
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\macos\selenium-manager
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.exe
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.csv
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.json
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.xml
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.csv
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.json
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.xml
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.deps.json
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.runtimeconfig.json
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.pdb
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.ApplicationInsights.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Platform.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.MSBuild.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.framework.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.framework.legacy.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\WebDriver.Support.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\WebDriver.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.pdb
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.AssemblyReference.cache
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\Interop.OfficeCSPLib.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\Interop.VSTOEE100.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.ResolveComReference.cache
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.AssemblyInfoInputs.cache
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.AssemblyInfo.cs
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.CoreCompileInputs.cache
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.gentestingplatformentrypointinputcache.cache
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.genautoregisteredextensionsinputcache.cache
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\AutoRegisteredExtensions.cs
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\TestPlatformEntryPoint.cs
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressb.12551DE1.Up2Date
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\refint\addressbook-test-data-generators.dll
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.pdb
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.genruntimeconfig.cache
+C:\git\scharp_training_ia-main (4)\scharp_training_ia-main\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\ref\addressbook-test-data-generators.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testhost.exe
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testhost.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.api.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.core.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testcentric.engine.metadata.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\linux\selenium-manager
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\macos\selenium-manager
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.deps.json
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.runtimeconfig.json
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.exe
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.csv
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.json
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.xml
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.csv
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.json
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.xml
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.deps.json
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.runtimeconfig.json
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.pdb
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.ApplicationInsights.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Platform.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.MSBuild.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.framework.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.framework.legacy.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\WebDriver.Support.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\WebDriver.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.pdb
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.AssemblyReference.cache
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\Interop.OfficeCSPLib.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\Interop.VSTOEE100.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.ResolveComReference.cache
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.GeneratedMSBuildEditorConfig.editorconfig
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.AssemblyInfoInputs.cache
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.AssemblyInfo.cs
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.CoreCompileInputs.cache
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.gentestingplatformentrypointinputcache.cache
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.genautoregisteredextensionsinputcache.cache
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\AutoRegisteredExtensions.cs
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\TestPlatformEntryPoint.cs
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.sourcelink.json
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressb.12551DE1.Up2Date
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\refint\addressbook-test-data-generators.dll
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.pdb
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.genruntimeconfig.cache
+C:\qa\charp_training\charp_training\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\ref\addressbook-test-data-generators.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testhost.exe
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testhost.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\NUnit3.TestAdapter.pdb
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.api.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.engine.core.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\testcentric.engine.metadata.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\NUnit3.TestAdapter.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\linux\selenium-manager
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\macos\selenium-manager
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\selenium-manager\windows\selenium-manager.exe
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.deps.json
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.runtimeconfig.json
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.exe
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.csv
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.json
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\contacts.xml
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.csv
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.json
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\groups.xml
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.deps.json
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.runtimeconfig.json
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-test-data-generators.pdb
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.ApplicationInsights.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Platform.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.Testing.Extensions.MSBuild.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.TestPlatform.Utilities.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.framework.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\nunit.framework.legacy.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\WebDriver.Support.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\WebDriver.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\bin\Debug\net9.0\addressbook-web-tests_ai.pdb
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.AssemblyReference.cache
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\Interop.OfficeCSPLib.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\Interop.VSTOEE100.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.ResolveComReference.cache
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.GeneratedMSBuildEditorConfig.editorconfig
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.AssemblyInfoInputs.cache
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.AssemblyInfo.cs
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.csproj.CoreCompileInputs.cache
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.gentestingplatformentrypointinputcache.cache
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.genautoregisteredextensionsinputcache.cache
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\AutoRegisteredExtensions.cs
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\TestPlatformEntryPoint.cs
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.sourcelink.json
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressb.12551DE1.Up2Date
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\refint\addressbook-test-data-generators.dll
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.pdb
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\addressbook-test-data-generators.genruntimeconfig.cache
+C:\gith\charp_trainings\charp_trainings\addressbook-web-tests_ai\addressbook-test-data-generators\obj\Debug\net9.0\ref\addressbook-test-data-generators.dll
