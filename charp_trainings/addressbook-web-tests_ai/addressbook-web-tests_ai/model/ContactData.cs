@@ -2,9 +2,15 @@
 using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using static System.Net.Mime.MediaTypeNames;
+using System.ComponentModel.DataAnnotations.Schema;
+using LinqToDB.Mapping;
+
 
 namespace WebAddressbookTests
+
 {
+    [LinqToDB.Mapping.Table(Name = "addressbook")]
+
     public class ContactData : IEquatable<ContactData>, IComparable<ContactData>
     {
         private string allPhones;
@@ -65,9 +71,15 @@ namespace WebAddressbookTests
             FirstName = firstname;
             LastName = lastname;
         }
+        [LinqToDB.Mapping.Column(Name = "id"), PrimaryKey, Identity]
+        public string Id { get; set; }
+
+        [LinqToDB.Mapping.Column(Name = "firstname")]
 
 
         public string FirstName { get; set; }
+        [LinqToDB.Mapping.Column(Name = "lastname")]
+
         public string LastName { get; set; }
         public string Address { get; set; }
         public string HomePhone { get; set; }
@@ -162,6 +174,8 @@ namespace WebAddressbookTests
                 textInDetails = value;
             }
         }
+        [LinqToDB.Mapping.Column(Name = "deprecated")]
+        public string Deprecated { get; set; }
 
         private string CleanUpPhoneInDetails(string homePhone, string mobilePhone, string workPhone)
         {
@@ -223,7 +237,7 @@ namespace WebAddressbookTests
             {
                 return "";
             }
-            //return phone.Replace(" ", "").Replace("-", "").Replace("(", "").Replace(")", "") + "\r\n";
+            
            
             return Regex.Replace(phone, "[ \\-()]", "") + "\r\n"; 
         }
@@ -235,5 +249,13 @@ namespace WebAddressbookTests
             }
             return email + "\r\n";
         }
+        public static List<ContactData> GetAll() 
+        {
+            using (AddressBookDB db = new AddressBookDB())
+            {
+                return (from c in db.Contacts/*.Where(x => x.Deprecated == "0000-00-00 00:00:00")*/ select c).ToList();
+            }
+        }
     }
 }
+

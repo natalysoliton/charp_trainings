@@ -13,12 +13,158 @@
     <SourceRoot Include="C:\Users\Nataly\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\CopyMe.MySql.tt.txt" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\CopyMe.MySql.tt.txt')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\CopyMe.MySql.tt.txt</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\DataAnnotations.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\DataAnnotations.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\DataAnnotations.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\DataModel.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\DataModel.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\DataModel.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\EditableObject.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\EditableObject.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\EditableObject.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\Equatable.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\Equatable.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\Equatable.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\Humanizer.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\Humanizer.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\Humanizer.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.MySql.Tools.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.MySql.Tools.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\LinqToDB.MySql.Tools.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.MySql.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.MySql.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\LinqToDB.MySql.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.Tools.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.Tools.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\LinqToDB.Tools.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\LinqToDB.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\LinqToDB.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\MultipleFiles.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\MultipleFiles.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\MultipleFiles.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\NotifyDataErrorInfo.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\NotifyDataErrorInfo.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\NotifyDataErrorInfo.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\NotifyPropertyChanged.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\NotifyPropertyChanged.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\NotifyPropertyChanged.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\ObsoleteAttributes.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\ObsoleteAttributes.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\ObsoleteAttributes.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\PluralizationService.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\PluralizationService.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\PluralizationService.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\T4Model.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\T4Model.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\T4Model.ttinclude</Link>
+    </None>
+    <None Include="$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\Validation.ttinclude" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\contentFiles\any\any\LinqToDB.Templates\Validation.ttinclude')">
+      <NuGetPackageId>linq2db.MySql</NuGetPackageId>
+      <NuGetPackageVersion>5.4.1</NuGetPackageVersion>
+      <NuGetItemType>None</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>LinqToDB.Templates\Validation.ttinclude</Link>
+    </None>
+  </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.testing.platform\1.5.3\buildTransitive\net9.0\Microsoft.Testing.Platform.props" Condition="Exists('$(NuGetPackageRoot)microsoft.testing.platform\1.5.3\buildTransitive\net9.0\Microsoft.Testing.Platform.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.testing.platform.msbuild\1.5.3\buildTransitive\Microsoft.Testing.Platform.MSBuild.props" Condition="Exists('$(NuGetPackageRoot)microsoft.testing.platform.msbuild\1.5.3\buildTransitive\Microsoft.Testing.Platform.MSBuild.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.testing.extensions.telemetry\1.5.3\buildTransitive\net9.0\Microsoft.Testing.Extensions.Telemetry.props" Condition="Exists('$(NuGetPackageRoot)microsoft.testing.extensions.telemetry\1.5.3\buildTransitive\net9.0\Microsoft.Testing.Extensions.Telemetry.props')" />
+    <Import Project="$(NuGetPackageRoot)nunit3testadapter\5.0.0\build\netcoreapp3.1\NUnit3TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)nunit3testadapter\5.0.0\build\netcoreapp3.1\NUnit3TestAdapter.props')" />
+    <Import Project="$(NuGetPackageRoot)nunit\4.3.2\build\NUnit.props" Condition="Exists('$(NuGetPackageRoot)nunit\4.3.2\build\NUnit.props')" />
+    <Import Project="$(NuGetPackageRoot)mstest.testadapter\3.6.4\build\net8.0\MSTest.TestAdapter.props" Condition="Exists('$(NuGetPackageRoot)mstest.testadapter\3.6.4\build\net8.0\MSTest.TestAdapter.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.testplatform.testhost\17.12.0\build\netcoreapp3.1\Microsoft.TestPlatform.TestHost.props" Condition="Exists('$(NuGetPackageRoot)microsoft.testplatform.testhost\17.12.0\build\netcoreapp3.1\Microsoft.TestPlatform.TestHost.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.codecoverage\17.12.0\build\netstandard2.0\Microsoft.CodeCoverage.props" Condition="Exists('$(NuGetPackageRoot)microsoft.codecoverage\17.12.0\build\netstandard2.0\Microsoft.CodeCoverage.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.test.sdk\17.12.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.test.sdk\17.12.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.props')" />
+    <Import Project="$(NuGetPackageRoot)linq2db.mysql\5.4.1\build\linq2db.MySql.props" Condition="Exists('$(NuGetPackageRoot)linq2db.mysql\5.4.1\build\linq2db.MySql.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMSTest_Analyzers Condition=" '$(PkgMSTest_Analyzers)' == '' ">C:\Users\Nataly\.nuget\packages\mstest.analyzers\3.6.4</PkgMSTest_Analyzers>
+    <Pkglinq2db_MySql Condition=" '$(Pkglinq2db_MySql)' == '' ">C:\Users\Nataly\.nuget\packages\linq2db.mysql\5.4.1</Pkglinq2db_MySql>
   </PropertyGroup>
 </Project>

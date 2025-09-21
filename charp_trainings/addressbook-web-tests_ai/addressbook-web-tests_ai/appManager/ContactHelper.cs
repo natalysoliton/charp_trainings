@@ -2,6 +2,9 @@
 using OpenQA.Selenium.BiDi.BrowsingContext;
 using System;
 using System.Text.RegularExpressions;
+using OpenQA.Selenium.Support.UI;
+using System.Reflection;
+
 
 namespace WebAddressbookTests
 {
@@ -13,7 +16,7 @@ namespace WebAddressbookTests
         public ContactHelper Create(ContactData contact) 
         {
             manager.Navigator.GoToAddNewPage();
-            FillAddressForm(contact);
+            FillContactForm(contact);
             SubmitAddressCreation();
             manager.Navigator.GoToHomePage();
             return this;
@@ -27,18 +30,48 @@ namespace WebAddressbookTests
             manager.Navigator.GoToHomePage();
             return this;
         }
+        public ContactHelper Remove2(ContactData contact)
+        {
+            manager.Navigator.GoToHomePage();
+            SelectContact(contact.Id);
+            RemoveContact();
+            manager.Navigator.GoToHomePage();
+            return this;
+        }
+
+        public ContactHelper SelectContact(string id)
+        {
+            driver.FindElement(By.XPath("(//input[@name='selected[]' and @value='" + id + "'])")).Click();
+            return this;
+        }
+
 
         public ContactHelper Modify(int index, ContactData newData)
         {
             manager.Navigator.GoToHomePage();
             EditContact(index);
-            FillAddressForm(newData);
+            FillContactForm(newData);
             SubmitContactModification();
             manager.Navigator.GoToHomePage();
             return this;
         }
+        public ContactHelper Modify2(ContactData oldData, ContactData newData)
+        {
+            manager.Navigator.GoToHomePage();
+            EditContact(oldData.Id);
+            FillContactForm(newData);
+            SubmitContactModification();
+            manager.Navigator.GoToHomePage();
+            return this;
+        }
+        public ContactHelper EditContact(string id)
+        {
+            driver.FindElement(By.XPath("//tr[.//input[@value='" + id + "']]//img[@title='Edit']")).Click();
+            return this;
+        }
 
-        public ContactHelper FillAddressForm(ContactData address)
+        public ContactHelper FillContactForm(ContactData address)
+
         {
             Type(By.Name("firstname"), address.FirstName);
             Type(By.Name("lastname"), address.LastName);
@@ -195,11 +228,37 @@ namespace WebAddressbookTests
                 .FindElements(By.TagName("td"))[6]
                 .FindElement(By.TagName("a")).Click();
         }
-
-        //just test
-        internal string Test1()
+        public void AddContactToGroup(ContactData contact, GroupData group)
         {
-            return driver.FindElement(By.Id("content")).Text;
+            manager.Navigator.GoToHomePage();
+            ClearGroupFilter();
+            SelectContactId(contact.Id);
+            SelectGroupToAdd(group.Name);
+            CommitAddingContactToGroup();
+            new WebDriverWait(driver, TimeSpan.FromSeconds(10))
+                .Until(d => d.FindElements(By.CssSelector("div.msgbox")).Count > 0);
         }
+
+        public void ClearGroupFilter()
+        {
+            new SelectElement(driver.FindElement(By.Name("group"))).SelectByText("[all]");
+        }
+
+        private void SelectContactId(string contactId)
+        {
+            driver.FindElement(By.Id(contactId)).Click();
+        }
+
+        public void SelectGroupToAdd(string name)
+        {
+            new SelectElement(driver.FindElement(By.Name("to_group"))).SelectByText(name);
+        }
+
+        public void CommitAddingContactToGroup()
+        {
+            driver.FindElement(By.Name("add")).Click();
+        }
+
     }
 }
+

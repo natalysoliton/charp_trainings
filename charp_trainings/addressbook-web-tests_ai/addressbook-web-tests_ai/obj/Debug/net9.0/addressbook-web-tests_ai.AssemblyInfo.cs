@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("addressbook-web-tests_ai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c4a4de44ea2109c159bce8a01704d1cbffc8ee8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6107b8e7078b0224bb8a3cc33a62c6c85e16717")]
 [assembly: System.Reflection.AssemblyProductAttribute("addressbook-web-tests_ai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("addressbook-web-tests_ai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
