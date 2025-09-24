@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("addressbook-test-data-generators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6107b8e7078b0224bb8a3cc33a62c6c85e16717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efbe0a5270faeed23b6c42790f133e4919de83df")]
 [assembly: System.Reflection.AssemblyProductAttribute("addressbook-test-data-generators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("addressbook-test-data-generators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

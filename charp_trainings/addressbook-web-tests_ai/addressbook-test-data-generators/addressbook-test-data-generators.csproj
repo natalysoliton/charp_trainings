@@ -6,7 +6,7 @@
     <RootNamespace>addressbook_test_data_generators</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <GenerateProgramFile>false</GenerateProgramFile>
+	              <GenerateProgramFile>false</GenerateProgramFile>  <!--Чтобы  убрать конфликт использования двух Main -->
   </PropertyGroup>
 
   <ItemGroup>

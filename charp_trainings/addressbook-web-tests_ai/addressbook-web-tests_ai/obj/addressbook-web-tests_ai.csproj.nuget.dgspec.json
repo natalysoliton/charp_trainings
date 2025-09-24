@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gith\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj": {}
+    "C:\\qa\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj": {}
   },
   "projects": {
-    "C:\\gith\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj": {
+    "C:\\qa\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gith\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj",
+        "projectUniqueName": "C:\\qa\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj",
         "projectName": "addressbook-web-tests_ai",
-        "projectPath": "C:\\gith\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj",
+        "projectPath": "C:\\qa\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj",
         "packagesPath": "C:\\Users\\Nataly\\.nuget\\packages\\",
-        "outputPath": "C:\\gith\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\obj\\",
+        "outputPath": "C:\\qa\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

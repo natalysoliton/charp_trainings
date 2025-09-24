@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+MOhASQK7+A=",
+  "dgSpecHash": "ni9MFR/yGMY=",
   "success": true,
-  "projectFilePath": "C:\\gith\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj",
+  "projectFilePath": "C:\\qa\\charp_trainings\\charp_trainings\\addressbook-web-tests_ai\\addressbook-web-tests_ai\\addressbook-web-tests_ai.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nataly\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\Nataly\\.nuget\\packages\\google.protobuf\\3.30.0\\google.protobuf.3.30.0.nupkg.sha512",

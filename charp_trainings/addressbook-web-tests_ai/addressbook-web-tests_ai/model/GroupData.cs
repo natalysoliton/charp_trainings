@@ -76,12 +76,17 @@ namespace WebAddressbookTests
         {
             using (AddressBookDB db = new AddressBookDB())
             {
-                return (from c in db.Contacts
-                        from gcr in db.GCR/*.Where(p => p.ContactId == Id && p.ContactId == c.Id && c.Deprecated == "0000-00-00 00:00:00")*/
-                        select c).Distinct().ToList();
+                return (from c in db.Contacts           
+                        from gcr in db.GCR              
+                        where gcr.GroupId == this.Id    
+                            && gcr.ContactId == c.Id    
+                        //.Where(p => p.ContactId == Id && p.ContactId == c.Id)// && c.Deprecated == "0000-00-00 00:00:00")
+                        select c).Distinct()            
+                       .ToList();                      
             }
         }
     }
 }
+
 
 
