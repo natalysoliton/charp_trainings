@@ -1,10 +1,13 @@
 ﻿using NUnit.Framework;
 using NUnit.Framework.Legacy;
+using System.Collections.Generic;
+
 
 namespace WebAddressbookTests
 {
     [TestFixture]
-    public class ContactRemovalTests : AuthTestBase
+    public class ContactRemovalTests : ContactTestBase
+
     {
         [Test]
         public void ContactRemovalTest()
@@ -14,16 +17,22 @@ namespace WebAddressbookTests
                 ContactData contact = new ContactData("Test Contact");
                 app.Contacts.Create(contact);
             }
+            List<ContactData> oldContacts = ContactData.GetAll();
+            ContactData toBeRemoved = oldContacts[0];
 
-            List<ContactData> oldContacts = app.Contacts.GetContactList();
+            app.Contacts.Remove2(toBeRemoved);
 
-            app.Contacts.Remove(0);
-
-            List<ContactData> newContacts = app.Contacts.GetContactList();
+            List<ContactData> newContacts = ContactData.GetAll();
             oldContacts.RemoveAt(0);
-            oldContacts.Sort();
-            newContacts.Sort();
+            //oldContacts.Sort();
+            //newContacts.Sort();
             ClassicAssert.AreEqual(oldContacts, newContacts);
+
+            foreach (ContactData contact in newContacts)
+            {
+                ClassicAssert.AreNotEqual(contact.Id, toBeRemoved.Id); 
+            }
         }
     }
 }
+

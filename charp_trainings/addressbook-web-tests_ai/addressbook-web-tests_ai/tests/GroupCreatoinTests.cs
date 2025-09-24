@@ -10,7 +10,8 @@ using Newtonsoft.Json;
 namespace WebAddressbookTests
 {
     [TestFixture]
-    public class GroupCreationTests : AuthTestBase
+    public class GroupCreationTests : GroupTestBase
+
     {
         public static IEnumerable<GroupData> RndomGroupDataProvider()
         {
@@ -59,17 +60,42 @@ namespace WebAddressbookTests
         [Test, TestCaseSource("GroupDataFromJsonFile")]
         public void GroupCreationTest(GroupData group)
         {
-            List<GroupData> oldGroups = app.Groups.GetGroupList(); 
-            
+            List<GroupData> oldGroups = GroupData.GetAll(); 
+
             app.Groups.Create(group); 
 
-            ClassicAssert.AreEqual(oldGroups.Count + 1, app.Groups.GetGroupCount()); 
+            ClassicAssert.AreEqual(oldGroups.Count + 1, app.Groups.GetGroupCount());
 
-            List<GroupData> newGroups = app.Groups.GetGroupList(); 
+            List<GroupData> newGroups = GroupData.GetAll(); 
             oldGroups.Add(group);
             oldGroups.Sort();
             newGroups.Sort();
             ClassicAssert.AreEqual(oldGroups, newGroups); 
         }
+
+        [Test]
+        public void TestDBConnectivity()
+        {
+            /*DateTime start = DateTime.Now;
+            List<GroupData> fromUi = app.Groups.GetGroupList();
+            DateTime end = DateTime.Now;
+            System.Console.Out.WriteLine(end.Subtract(start));
+
+            start = DateTime.Now;
+            List<GroupData> fromDB = GroupData.GetAll();
+            end = DateTime.Now;
+            System.Console.Out.WriteLine(end.Subtract(start));*/
+
+            /*foreach (ContactData contact in GroupData.GetAll()[0].GetContacts())
+            {
+                System.Console.Out.WriteLine(contact);
+            }*/
+
+            foreach (ContactData contact in ContactData.GetAll())
+            {
+                System.Console.Out.WriteLine(contact.Deprecated);
+            }
+        }
     }
 }
+

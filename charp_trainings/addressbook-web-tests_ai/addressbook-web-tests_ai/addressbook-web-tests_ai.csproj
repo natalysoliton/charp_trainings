@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
@@ -6,9 +6,14 @@
     <LangVersion>latest</LangVersion>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	         
+
   </PropertyGroup>
 
   <ItemGroup>
+	<PackageReference Include="linq2db" Version="5.4.1" />
+    <PackageReference Include="linq2db.MySql" Version="5.4.1" />
+	<PackageReference Include="MySql.Data" Version="9.4.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
     <PackageReference Include="MSTest" Version="3.6.4" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
@@ -16,6 +21,8 @@
     <PackageReference Include="NUnit3TestAdapter" Version="5.0.0" />
     <PackageReference Include="Selenium.Support" Version="4.34.0" />
     <PackageReference Include="Selenium.WebDriver" Version="4.34.0" />
+    <PackageReference Include="System.Xml.ReaderWriter" Version="4.3.1" />
+    <PackageReference Include="System.Xml.XmlSerializer" Version="4.3.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +30,9 @@
   </ItemGroup>
 
   <ItemGroup>
+     <None Update="app.config">
+     <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="contacts.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
